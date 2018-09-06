@@ -1,0 +1,20 @@
+ECE DEPERTMENT					BIOLOGY DEPERTMENT
+
+aqu=Dr. Atiqur Rahman				un=Mrs. Ishrat Jabeen 	
+ara2=Dr. Ahsanur Rahman				ach=Abhinandan Chowdhury
+asd=Dr. Asad Jamil					cak=Dr. Chaman Ara Keya
+huz=Dr. Hasan Uz Zaman				hbr=Md. Habibur Rahaman
+hzr=Dr. Hafiz Abdur Rahman				jrh=Jurrat Hasan
+kas=Dr. Kazi Mohammad Abdus Salam			jsj=Dr. Jinath Sultana Jime
+kmm=Dr. Mohammad Monirujjaman Khan		klq=Dr. Abdul Khaleque
+lih=Dr. Lamia Iftekhar				knh=Dr. Kazi Nadim Hasan
+mtd=Shah Mostafa Khaled				mh1=Dr. Md. Mainul Hossain
+nsv=Dr. Nabil Shovon Ashraf				mnq=Dr. Muhammad Maqsud Hossain
+nva=Dr. Nova Ahmed				nbb=Dr. Nayeema Bulbul
+rjp=Dr. Rajesh Palit					nsi=Ms. Nishat Shayala Islam
+rkz=Dr. M. Rokonuzzaman				orr=Dr. Obaidur Rahman
+rrn=Dr. Mohammad Rashedur Rahman			sdl=Dr. Sohidul Islam
+rzb=Dr. Rezaul Bari					sfa2=Ms. Syeda Farhana Afroz
+sl=Dr. Sharnali Islam				skk=Dr S M Mostafa Kamal Khan	
+szz=Dr. Shazzad Hosain				stb=Dr. Shiblee Ratan Barua
+						
